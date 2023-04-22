@@ -1,1 +1,1 @@
-# algorithm-autocommit
+# mysql-query-solve repo
