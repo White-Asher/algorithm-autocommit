@@ -1,4 +1,4 @@
--- 코드를 입력하세요
+-- ORACLE SQL
 SELECT 
     UGU.USER_ID,
     UGU.NICKNAME,
@@ -17,4 +17,3 @@ WHERE USER_ID IN (
                   )
 ORDER BY USER_ID DESC
 ;
-                
